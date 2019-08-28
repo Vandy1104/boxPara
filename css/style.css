@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.flag {
+  background: blue;
+  height: 200px;
+  width: 33%;
+  display: inline-block;
+  margin: 0; }
+
+blockquote {
+  float: right;
+  width: 200px;
+  font-style: italic;
+  font-size: 18px; }
+
+p {
+  width: 24%;
+  float: left;
+  margin: 5px;
+  padding: 5px; }
+
+/*# sourceMappingURL=style.css.map */
